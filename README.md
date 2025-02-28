@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Team One
 - 📫 How to reach me Facebook:Rivo Rv 
 - 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="20" height="20"> TypeScript 
 
 <!---
 Rivoarivelo/Rivoarivelo is a ✨ special ✨ repository because its `Rivo.md` (this file) appears on your GitHub profile.
