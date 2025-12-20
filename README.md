@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Rivo
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning React.js and dart flutter
-- 💞️ I’m looking to collaborate on Team One
-- 📫 How to reach me Facebook:Rivo Rv 
+Full Stack MEARN✊🏻</>
 
 --<h1>TECHNOLOGIE</h1>--
 
